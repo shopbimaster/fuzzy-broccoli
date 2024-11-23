@@ -1,0 +1,21 @@
+/* CSS Document */
+a{
+	color:royalblue;
+}
+*{
+	color:white;
+	font-family: 'Kaiti';
+	font-size: 36px;
+}
+th{
+	width:400px;
+}
+td{
+	width:400px;
+}
+td{
+	text-align:center;
+}
+.highlight{
+	background-color:gold;
+}
